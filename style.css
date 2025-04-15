@@ -1,0 +1,34 @@
+body {
+  background-color: #fceff9;
+  color: #4a4a4a;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding: 2rem;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #732d91;
+}
+
+a {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #b07acc;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+img {
+  width: 150px;
+  border-radius: 10px;
+  margin: 10px;
+}
